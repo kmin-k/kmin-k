@@ -1,18 +1,17 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi,%20I'm%20kkmin%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi,%20I'm%20KangminKim%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <div align="center">
 
 <!-- Typing -->
 <a href="https://github.com/kmin-k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=86A8E7&center=true&vCenter=true&width=500&lines=Backend+Developer;Node.js+%7C+TypeScript+%7C+Python;Hongik+Univ.+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=86A8E7&center=true&vCenter=true&width=500&lines=Backend+Developer;Spring+%7C+Node.js+%7C+TypeScript;Hongik+Univ.+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Contact -->
-<a href="mailto:kkmin801@gmail.com"><img src="https://img.shields.io/badge/Gmail-kkmin801@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Hongik_Univ.-002D72?style=flat-square&logo=academia&logoColor=white"/>
+🎓 Hongik Univ. &nbsp;·&nbsp; 📧 <a href="mailto:kkmin801@gmail.com">kkmin801@gmail.com</a>
+
 <img src="https://komarev.com/ghpvc/?username=kmin-k&style=flat-square&color=86A8E7&label=Profile+Views"/>
 
 </div>
@@ -22,7 +21,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,python,mysql,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,express,python,mysql,git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
