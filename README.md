@@ -1,7 +1,6 @@
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=200&section=header&text=Hi,%20I'm%20KangminKim%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
 <div align="center">
+
+# Hi, I'm KangminKim 👋
 
 <!-- Typing -->
 <a href="https://github.com/kmin-k">
@@ -50,16 +49,3 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmin-k/kmin-k/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kmin-k/kmin-k/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/kmin-k/kmin-k/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=120&section=footer" width="100%"/>
